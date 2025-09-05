@@ -1,3 +1,31 @@
+
+####################################################################### Gurvijay Gill Notes ######################################################################
+1. Folder - CA_Solactive_Index_Assessment /data_sources/
+This folder has the following files ->
+
+1.a -> "data_sources/calcs_index_gurvijay_gill.xlsx" - I have created the index calculations in this model. Tab "Index_Calcs" , column I and H have index returns and index levels.
+        Columns F and G have comparison of retuns and levels.
+
+1.b -> "data_sources/index_values_calcs_output_gurvijay.csv" - Is the the output file created by "__main__.py"
+
+
+
+2. Requirements - "CA_Solactive_Index_Assessment/requirements.txt" has updated requirements with pandas and numpy.
+
+3. Before you run "__main__.py", change the following paths.
+   
+   out_path = "C:/Users/Gurvijay/PyCharmProjects_New/CA_Solactive/data_sources/index_values_calcs_output_gurvijay.csv"
+   stock_prices_path = "C:/Users/Gurvijay/PyCharmProjects_New/CA_Solactive/data_sources/stock_prices.csv"
+
+4. index_model/index.py - I have added my code here.
+
+I will look forward to hear from you!
+Thanks and Regards
+Gurvijay Gill (gurvijay.gill@gmail.com)
+   
+
+
+
 # Assessment Index Modelling
 
 This Code Assessment simulates the scenario of building an index model based on a given guideline. 
@@ -54,3 +82,4 @@ We are happy to see your project. If not already agreed otherwise, please send u
 as a link to your GitHub repo via mail to jobs@solactive.com. 
 
 Please make sure that you clone the project instead of forking it.
+
