@@ -1,5 +1,6 @@
 
-####################################################################### Gurvijay Gill Notes ######################################################################
+####################################### GURVIJAY GILL NOTES #################################
+
 1. Folder - CA_Solactive_Index_Assessment /data_sources/
 This folder has the following files ->
 
@@ -82,4 +83,5 @@ We are happy to see your project. If not already agreed otherwise, please send u
 as a link to your GitHub repo via mail to jobs@solactive.com. 
 
 Please make sure that you clone the project instead of forking it.
+
 
